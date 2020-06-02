@@ -1,4 +1,4 @@
-#Spring Core - Spring MVC
+# Spring Core - Spring MVC
 
 Spring Core - Spring MVC template project
 
