@@ -6,7 +6,7 @@ This is a replica project of the springframework.guru course
 what you can check [here](http://courses.springframework.guru/courses/spring-core/).
 
 This replica project created because the original starting project on the instructor side currently has a problem:
-And the mvn clean was not a solution. 
+And the "mvn clean" command was not a solution. 
 
 ```diff
 Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor': Invocation of init method failed; nested exception is javax.validation.ValidationException: Unable to instantiate Configuration.
